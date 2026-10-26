@@ -1,7 +1,7 @@
 # EXP-1-DIPT
 # EXP-1-Image Handling and Pixel Transformation Using Opencv
-## NAME : Dhanappriya S
-## REG NO :212224230056
+## NAME : RAGASUDHA R
+## REG NO :212224230215
 ## DATE : 23/10/2026
 # PROCEDURE:
 Step1:
