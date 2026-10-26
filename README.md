@@ -38,14 +38,17 @@ Step5:
 o Resize the original image to half its size and display it.
 
 Step6:
+
 o Crop a region of interest (ROI) from the image (e.g., a 100x100 pixel area starting at (50, 50)) and display it.
 
 Step7:
+
 o Flip the original image horizontally and display it. 
 
 o Flip the original image vertically and display it.
 
 Step8:
+
 o Save the final modified image to your local directory.
 
 ## CODE
