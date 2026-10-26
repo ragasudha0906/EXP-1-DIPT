@@ -1,5 +1,4 @@
-# EXP-1-DIPT
-# Image Handling and Pixel Transformation Using Opencv
+# EXP 01: Image Handling and Pixel Transformation Using Opencv
 ## NAME : RAGASUDHA R
 ## REG NO :212224230215
 
