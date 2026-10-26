@@ -3,6 +3,9 @@
 ## NAME : RAGASUDHA R
 ## REG NO :212224230215
 ## DATE : 23/10/2026
+# AIM:
+To perform image handling and pixel transformations using OpenCV by loading, displaying, converting, and manipulating images through pixel-level operations.
+
 # PROCEDURE:
 Step1:
 
@@ -206,7 +209,7 @@ plt.axis("off")
 <img width="847" height="562" alt="image" src="https://github.com/user-attachments/assets/873ef37c-55c1-40a6-94bd-8a3c69f8159d" />
 <img width="762" height="512" alt="image" src="https://github.com/user-attachments/assets/f2223982-29e2-4f0c-af44-1bc15327e64f" />
 <img width="872" height="525" alt="image" src="https://github.com/user-attachments/assets/e3b40af9-af7c-475c-a672-01162fef06a6" />
-<img width="870" height="512" alt="image" src="https://github.com/user-attachments/assets/9f4a7808-aa07-482a-bcf5-ce4e7e385add" />
+<img width="765" height="506" alt="image" src="https://github.com/user-attachments/assets/a5c1ba63-f34c-4cc7-ba03-1ff2f682f016" />
 <img width="972" height="550" alt="image" src="https://github.com/user-attachments/assets/f5624b34-cfae-471d-9b9d-cd5052499371" />
 <img width="930" height="550" alt="image" src="https://github.com/user-attachments/assets/b4d54bdf-55fa-4e26-ac1e-6ce551b122ca" />
 
